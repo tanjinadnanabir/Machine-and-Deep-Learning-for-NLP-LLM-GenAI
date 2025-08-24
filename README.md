@@ -1,1 +1,1 @@
-# Machine-Learning-for-NLP-LLM
+# Machine-and-Deep-Learning-for-NLP-LLM-GenAI
